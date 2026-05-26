@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "Max Steel",
+    "preco": 99.99,
+    "quantidade": 50,
+    "categoria": "Toys"
+  },
+  {
+    "id": 2,
+    "nome": "Pelucia",
+    "preco": 159.9,
+    "quantidade": 45,
+    "categoria": "Toys"
+  }
+]
