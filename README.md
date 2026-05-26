@@ -46,13 +46,13 @@ estoque-ruby/
 git clone https://github.com/ItsTheDuds/controle-estoque-ruby.git
 ```
 
-2. Acesse a pasta
+### 2. Acesse a pasta
 
-cd controle-estoque-ruby
+  cd controle-estoque-ruby
 
-3. Execute o sistema
+### 3. Execute o sistema
 
-ruby app.rb
+  ruby app.rb
 
 🧭 Menu do sistema
 
